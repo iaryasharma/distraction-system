@@ -69,8 +69,11 @@ This project is developed and maintained by:
 - [Anant](https://github.com/AnantKhandaka)
 - [Zubin](https://github.com/IMPULSINATOR)
 
-
-![Arya0077](https://github.com/Arya0077.png?size=50) ![IMPULSINATOR](https://github.com/IMPULSINATOR.png?size=50) ![AnantKhandaka](https://github.com/AnantKhandaka.png?size=50)
+<p align="center">
+  <img src="https://github.com/Arya0077.png?size=50" alt="Arya0077" style="border-radius:50%;">
+  <img src="https://github.com/IMPULSINATOR.png?size=50" alt="IMPULSINATOR" style="border-radius:50%;">
+  <img src="https://github.com/AnantKhandaka.png?size=50" alt="AnantKhandaka" style="border-radius:50%;">
+</p>
 
 ## Contributing
 
