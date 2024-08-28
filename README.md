@@ -70,9 +70,9 @@ This project is developed and maintained by:
 - [Zubin](https://github.com/IMPULSINATOR)
 
 <p align="center">
-  <img src="https://github.com/Arya0077.png?size=50" alt="Arya0077" style="border-radius:50%;">
-  <img src="https://github.com/IMPULSINATOR.png?size=50" alt="IMPULSINATOR" style="border-radius:50%;">
-  <img src="https://github.com/AnantKhandaka.png?size=50" alt="AnantKhandaka" style="border-radius:50%;">
+  <img src="https://github.com/Arya0077.png?size=50" alt="Arya0077" width="50" height="50" style="border-radius:50%; margin-right: 10px;">
+  <img src="https://github.com/IMPULSINATOR.png?size=50" alt="IMPULSINATOR" width="50" height="50" style="border-radius:50%; margin-right: 10px;">
+  <img src="https://github.com/AnantKhandaka.png?size=50" alt="AnantKhandaka" width="50" height="50" style="border-radius:50%; margin-right: 10px;">
 </p>
 
 ## Contributing
